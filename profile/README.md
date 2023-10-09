@@ -8,13 +8,11 @@
 
 ![banner](https://raw.githubusercontent.com/iron-wallet/.github/main/profile/banner.png)
 
-
 <div align="center">
   <a href="https://github.com/iron-wallet/iron"><b>Source</b></a> –
-  <a href="https:/mirror.xyz/iron-wallet.eth"><b>Blog</b></a> –
-  <a href="https:/twitter.com/naps62"><b>Twitter</b></a>
+  <a href="https://mirror.xyz/iron-wallet.eth"><b>Blog</b></a> –
+  <a href="https://twitter.com/naps62"><b>Twitter</b></a>
 </div>
-
 
 <div align="center">
   <a href="https://subvisual.com"><b>Subvisual</b></a> //
