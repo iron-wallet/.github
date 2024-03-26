@@ -1,10 +1,6 @@
 <h1 align="center">
-  ethui (formerly Iron Wallet)
+  <a href="https://github.com/ethui">ethui (formerly Iron Wallet)</a>
 </h1>
-
-<p align="center">
-  We have transitioned to a <a href="https://github.com/ethui">new org</a>
-<p>
 
 <div align="center">
   <a href="https://github.com/ethui/ethui"><b>Source</b></a> –
