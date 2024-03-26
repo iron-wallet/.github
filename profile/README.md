@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  We have transitioned to a [new org](https://github.com/ethui)
+  We have transitioned to a <a href="https://github.com/ethui">new org</a>
 <p>
 
 <div align="center">
