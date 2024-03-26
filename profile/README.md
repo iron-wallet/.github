@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/ethui">ethui (formerly Iron Wallet)</a>
+  <a href="https://github.com/ethui">migrated to ethui</a>
 </h1>
 
 <div align="center">
